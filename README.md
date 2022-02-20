@@ -2,6 +2,15 @@
 
 ## Demo
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gurbela/react-native-curved-navigation-bar-example/master/gifs/ios.gif" 
+    height="380" width="200"
+  />
+  <img src="https://raw.githubusercontent.com/gurbela/react-native-curved-navigation-bar-example/gifs/andoid.gif" 
+    height="380"  width="200"
+  />
+</p>
+
 ## A basic Setup
 
 ## iOS
