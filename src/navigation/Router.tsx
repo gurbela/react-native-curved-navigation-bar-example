@@ -19,7 +19,7 @@ const Routes: React.FC = () => {
           headerStyle: {backgroundColor: 'transparent'},
           headerTransparent: true,
         })}
-        initialRouteName="authLoading">
+       >
         <Stack.Screen
           name="mainStack"
           component={MainStack}
